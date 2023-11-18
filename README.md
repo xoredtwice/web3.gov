@@ -10,6 +10,17 @@ Curated resources on Decentralized Governance, including articles, videos, and m
 
 + [2023. Metaverse governance: An empirical analysis of voting within Decentralized Autonomous Organizations](https://www.sciencedirect.com/science/article/pii/S0148296323001224)
 
+In this paper we explore the importance of platform governance. We discuss various problems of centralized
+architecture in the context of the metaverse or sharing economy applications which may lead to monopoly
+market structures. We argue that open standards and blockchain-based governance can potentially mitigate
+some of these issues. We then collect governance data from the first blockchain-based virtual world and conduct
+an empirical analysis to study voter behavior within Decentralized Autonomous Organizations (DAOs). We
+provide empirical evidence that open standards and blockchain-based governance are a necessary but not a
+sufficient condition for a decentralized and neutral platform. Centralization and concentrated voting power
+may lead to dependencies, rent extraction behavior and create hold-up problems. Consequently, producers,
+prosumers and service providers must evaluate the governance structure of the platform before establishing a
+presence.
+
 + [2023. navigating decentralized governance in web3: balance of transparency and control](https://cointelegraph.com/innovation-circle/navigating-decentralized-governance-in-web3-balance-of-transparency-and-control)
 
 + [2023. Web3 Governance Models](https://www.hiro.so/blog/web3-governance-models-an-introduction-to-the-decision-making-process-in-web3-projects)
