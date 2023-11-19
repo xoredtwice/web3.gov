@@ -1,4 +1,4 @@
-# dao.gov
+# Web3.gov
 Curated resources on Decentralized Governance, including articles, videos, and more.
 
 ## Web3 Governance
