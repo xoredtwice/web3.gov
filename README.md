@@ -53,33 +53,33 @@ The paper
 
 This article provides an in-depth overview of Web3 governance, explaining its importance in decentralized systems and the various models available for implementation in Web3 projects.
 
-##### Benefits of Community Governance in Web3 Projects:
++ Benefits of Community Governance in Web3 Projects:
 
-+ __Decentralization__: Embracing a Web3 governance model can further decentralize a project, aligning with the ethos of Web3 and potentially reaching a broader audience.
+    + __Decentralization__: Embracing a Web3 governance model can further decentralize a project, aligning with the ethos of Web3 and potentially reaching a broader audience.
 
-+ __Wisdom of the Crowd__: Utilizing the collective knowledge and expertise of a community can lead to better decision-making compared to relying solely on a core team.
+    + __Wisdom of the Crowd__: Utilizing the collective knowledge and expertise of a community can lead to better decision-making compared to relying solely on a core team.
 
-+ __Transparency and Accountability__: Governance models that involve the community enhance transparency and accountability, fostering trust and preventing power abuse.
+    + __Transparency and Accountability__: Governance models that involve the community enhance transparency and accountability, fostering trust and preventing power abuse.
 
-+ __Risk Management and Stability__: Effective governance models can provide clear frameworks for dispute resolution and ensure project continuity even after the departure of founding members.
+    + __Risk Management and Stability__: Effective governance models can provide clear frameworks for dispute resolution and ensure project continuity even after the departure of founding members.
 
-+ __Community Engagement__: Active governance encourages community participation, fostering a deeper connection and commitment to the project.
+    + __Community Engagement__: Active governance encourages community participation, fostering a deeper connection and commitment to the project.
 
-##### Types of Web3 Governance Models:
++ Types of Web3 Governance Models:
 
-+ Direct On-Chain Democracy: Allows all community members to vote directly on proposals with votes recorded on the blockchain, but risks plutocracy where wealthier members have more influence.
+    + __Direct On-Chain Democracy__: Allows all community members to vote directly on proposals with votes recorded on the blockchain, but risks plutocracy where wealthier members have more influence.
 
-+ Direct Off-Chain Democracy: Similar to on-chain democracy but voting occurs off the blockchain, which can be faster and cheaper but introduces trust and security concerns.
+    + __Direct Off-Chain Democracy__: Similar to on-chain democracy but voting occurs off the blockchain, which can be faster and cheaper but introduces trust and security concerns.
 
-+ Representative Democracy: Like traditional government systems, this model elects representatives to make decisions, balancing efficient decision-making with community input.
+    + __Representative Democracy__: Like traditional government systems, this model elects representatives to make decisions, balancing efficient decision-making with community input.
 
-+ Athenian Sortition: Randomly assigns decision-making power to community members to prevent power concentration, but may result in uninformed or unrepresentative decision-making.
+    + __Athenian Sortition__: Randomly assigns decision-making power to community members to prevent power concentration, but may result in uninformed or unrepresentative decision-making.
 
-+ Quadratic Democracy: Considers both the number of votes and unique voters to prevent the richest participants from dominating the decision-making process.
+    + __Quadratic Democracy__: Considers both the number of votes and unique voters to prevent the richest participants from dominating the decision-making process.
 
-##### Choosing the Right Web3 Governance Model:
++ Choosing the Right Web3 Governance Model:
 
-The selection of a governance model depends on various factors, including the __desired level of decentralization__, __community size__, and __required security level__. In the early stages of a project, it may be beneficial for founders to maintain decision-making control to develop their vision and achieve product-market fit. As the project matures, transitioning to a more decentralized governance model can be considered. It's important to stay flexible and adapt the governance model as the project and the Web3 industry evolve.
+    The selection of a governance model depends on various factors, including the __desired level of decentralization__, __community size__, and __required security level__. In the early stages of a project, it may be beneficial for founders to maintain decision-making control to develop their vision and achieve product-market fit. As the project matures, transitioning to a more decentralized governance model can be considered. It's important to stay flexible and adapt the governance model as the project and the Web3 industry evolve.
 
 ### [Web3 implications of blockchain mutations for internet governance](https://www.gcr21.org/publications/gcr/gcr-quarterly-magazine/qm-2-3/2022-articles/qm-2/3-2022-campbell-verduyn-and-huetten-from-peer-regulated-divisions-to-unity-in-web3-implications-of-blockchain-mutations-for-internet-governance)
 
@@ -105,70 +105,64 @@ This article delves into how Web3 is reshaping the landscape of democratic gover
 
 Key Points of the Article:
 
-__Web3 as a New Governance Laboratory__: Web3 creates a space where public and private incentives intertwine, featuring open-source projects that are also for-profit. This environment leads to a new form of digital participation characterized by extensive experimentation and quick iteration cycles.
++ __Web3 as a New Governance Laboratory__: Web3 creates a space where public and private incentives intertwine, featuring open-source projects that are also for-profit. This environment leads to a new form of digital participation characterized by extensive experimentation and quick iteration cycles.
 
-__Challenges in Web3 Governance__: Currently, Web3 governance heavily relies on direct democracy models, which have led to issues like low participation and concerns about weak oversight and interest-group capture.
++ __Challenges in Web3 Governance__: Currently, Web3 governance heavily relies on direct democracy models, which have led to issues like low participation and concerns about weak oversight and interest-group capture.
 
-__Learning from Historical Governance Systems__: The article suggests that Web3 governance can learn from the history of democratic and corporate governance systems. It advocates moving from direct to representative democracy to address issues like low voter participation and interest-group capture.
++ __Learning from Historical Governance Systems__: The article suggests that Web3 governance can learn from the history of democratic and corporate governance systems. It advocates moving from direct to representative democracy to address issues like low voter participation and interest-group capture.
 
-__Balancing Expertise and Broad Participation__: The article highlights the need to balance empowering experts with encouraging broad community participation. It suggests building more explicit governance institutions beyond simple token-based voting to represent all stakeholders effectively.
++ __Balancing Expertise and Broad Participation__: The article highlights the need to balance empowering experts with encouraging broad community participation. It suggests building more explicit governance institutions beyond simple token-based voting to represent all stakeholders effectively.
 
-__Implementing Representative Democracy in Web3__: The article proposes incorporating elements of representative democracy from traditional governance frameworks into Web3. This includes empowering delegates for oversight roles and auditing functions to build trust among all actors.
++ __Implementing Representative Democracy in Web3__: The article proposes incorporating elements of representative democracy from traditional governance frameworks into Web3. This includes empowering delegates for oversight roles and auditing functions to build trust among all actors.
 
-__Navigating the Challenges of Decentralized Governance__: The authors explore key challenges in decentralized governance, such as balancing different stakeholder interests and ensuring efficient decision-making.
++ __Navigating the Challenges of Decentralized Governance__: The authors explore key challenges in decentralized governance, such as balancing different stakeholder interests and ensuring efficient decision-making.
 
-__Potential for Rapid Experiments in Governance__: Web3 provides an opportunity for rapid experimentation and innovation in governance structures, which could lead to more mature governance systems that effectively balance community power with the challenges of participation, information availability, and interest-group capture.
++ __Potential for Rapid Experiments in Governance__: Web3 provides an opportunity for rapid experimentation and innovation in governance structures, which could lead to more mature governance systems that effectively balance community power with the challenges of participation, information availability, and interest-group capture.
 
-__Towards More Mature Decentralized Governance Systems__: The article envisions a future where Web3 governance systems are more mature, learning from the lessons of past governance models to create inclusive, efficient, and effective political systems.
++ __Towards More Mature Decentralized Governance Systems__: The article envisions a future where Web3 governance systems are more mature, learning from the lessons of past governance models to create inclusive, efficient, and effective political systems.
 
 ### [2022.Web3 wrong question](https://www.wired.com/story/web3-blockchain-decentralization-governance/)
 
 This article discusses the concept of decentralization in the context of Web3 and expresses concerns about the current direction of decentralization in this domain. Authored by Divya Siddarth, Danielle Allen, and E. Glen Weyl, the article argues that while decentralization can combat issues like erosion of freedom and economic stagnation, the focus should be on the type of decentralization rather than its degree.
 
-__Misguided Focus on Degree of Decentralization__: The authors argue that Web3’s focus on the degree of decentralization rather than its type can lead to misconceptions about both existing centralization and the feasibility of complete decentralization. They note that existing systems, often labeled as centralized, have elements of decentralization, and that extreme decentralization in Web3 could lead to inefficiencies and the re-emergence of centralized entities.
+Key Points of the Article:
 
-__Inefficiencies and Contradictions in Narrow Technical Decentralization__: The article points out that the narrow technical approach to decentralization in Web3, such as in distributed ledgers, faces inherent contradictions. This approach can result in either reduced functionality or the emergence of some form of centralized decision-making.
++ __Misguided Focus on Degree of Decentralization__: The authors argue that Web3’s focus on the degree of decentralization rather than its type can lead to misconceptions about both existing centralization and the feasibility of complete decentralization. They note that existing systems, often labeled as centralized, have elements of decentralization, and that extreme decentralization in Web3 could lead to inefficiencies and the re-emergence of centralized entities.
 
-__The Value of Decentralization in Empowering Action__: Decentralization, according to the authors, should empower people to act decisively within their social contexts while allowing for coordination across different contexts. This contrasts with the current trend where decision-making is often centralized in the hands of distant authorities.
++ __Inefficiencies and Contradictions in Narrow Technical Decentralization__: The article points out that the narrow technical approach to decentralization in Web3, such as in distributed ledgers, faces inherent contradictions. This approach can result in either reduced functionality or the emergence of some form of centralized decision-making.
 
-__Composable Local Control as an Alternative__: The authors propose a model of decentralization based on composable local control. This model focuses on solving problems through federations of local units that are relevant to the decision at hand. This approach draws on the principle of subsidiarity, which emphasizes solving problems at the most immediate level that is feasible.
++ __The Value of Decentralization in Empowering Action__: Decentralization, according to the authors, should empower people to act decisively within their social contexts while allowing for coordination across different contexts. This contrasts with the current trend where decision-making is often centralized in the hands of distant authorities.
 
-__Challenges with Distributed Redundancy__: The current Web3 model, which relies on distributed redundancy, is critiqued for removing data from its social context, aiming for universal solutions, and depending on global consensus. This model is seen as being in tension with subsidiary networks.
++ __Composable Local Control as an Alternative__: The authors propose a model of decentralization based on composable local control. This model focuses on solving problems through federations of local units that are relevant to the decision at hand. This approach draws on the principle of subsidiarity, which emphasizes solving problems at the most immediate level that is feasible.
 
-__Potential for Web3 to Redirect Towards Subsidiarity__: The authors express optimism that Web3 and related technologies can shift towards a model of subsidiarity. However, they emphasize the need for Web3 to evolve into a network of networks, rather than just a ledger.
++ __Challenges with Distributed Redundancy__: The current Web3 model, which relies on distributed redundancy, is critiqued for removing data from its social context, aiming for universal solutions, and depending on global consensus. This model is seen as being in tension with subsidiary networks.
 
-__Efficiency and Security in Subsidiarity__: Contrary to the distributed redundancy model, subsidiarity can increase efficiency by leveraging trust and relationships, rather than diminishing efficiency to eliminate the need for trust.
++ __Potential for Web3 to Redirect Towards Subsidiarity__: The authors express optimism that Web3 and related technologies can shift towards a model of subsidiarity. However, they emphasize the need for Web3 to evolve into a network of networks, rather than just a ledger.
+
++ __Efficiency and Security in Subsidiarity__: Contrary to the distributed redundancy model, subsidiarity can increase efficiency by leveraging trust and relationships, rather than diminishing efficiency to eliminate the need for trust.
 
 ### [ChainLink: DAO complexities](https://blog.chain.link/daos/)
 
 This comprehensive article from Chainlink provides an in-depth exploration of Decentralized Autonomous Organizations (DAOs) and their role in the governance of Web3. It covers various aspects of DAOs, including their types, responsibilities, tooling, governance structures, benefits, trade-offs, and the future outlook.
 
-__Definition and Purpose of DAOs__:
+Key-points:
 
-DAOs (Decentralized Autonomous Organizations) are blockchain-based structures for collective decision-making.
-They are not fully autonomous as they require human interaction for functions like voting and deploying code.
-DAOs use smart contracts to execute decisions and assign ownership.
-Types of DAOs:
++ __Definition and Purpose of DAOs__: DAOs (Decentralized Autonomous Organizations) are blockchain-based structures for collective decision-making. They are not fully autonomous as they require human interaction for functions like voting and deploying code. DAOs use smart contracts to execute decisions and assign ownership.
 
-The article categorizes DAOs into several types including Protocol DAOs, Investment DAOs, Cause-based DAOs, Social DAOs, Data DAOs, and Network States. Each type serves different purposes, from managing decentralized applications to making investments or supporting specific causes.
-Responsibilities of DAOs:
++ __Types of DAOs__: The article categorizes DAOs into several types including Protocol DAOs, Investment DAOs, Cause-based DAOs, Social DAOs, Data DAOs, and Network States. Each type serves different purposes, from managing decentralized applications to making investments or supporting specific causes.
 
-These include managing open-source protocol upgrades, setting parameters within decentralized applications (dApps), directing protocol-owned funds, and more.
-DAO Tooling:
++ __Responsibilities of DAOs__:Responsibilities include managing open-source protocol upgrades, setting parameters within decentralized applications (dApps), directing protocol-owned funds, and more.
 
-Tools essential for DAO functioning are outlined, such as governance tokens, multi-signature wallets, voting contracts, delegation systems, off-chain snapshots, discussion forums, and reputation systems.
-Governance Structures in DAOs:
++ __DAO Tooling__:Tools essential for DAO functioning are outlined, such as governance tokens, multi-signature wallets, voting contracts, delegation systems, off-chain snapshots, discussion forums, and reputation systems.
 
-The article discusses various governance structures like direct on-chain democracy, direct off-chain democracy, representative democracy, and quadratic democracy, explaining how they function and their implications.
-Benefits of DAOs:
 
-Benefits include transparency, democratization, trust-minimization, and global participation.
-Tradeoffs and Challenges in DAO Governance:
++ __Governance Structures in DAOs__:The article discusses various governance structures like direct on-chain democracy, direct off-chain democracy, representative democracy, and quadratic democracy, explaining how they function and their implications.
 
-Key trade-offs are analyzed across multiple dichotomies such as Early-Stage vs. Late-Stage Members, Decentralization vs. Efficiency, Stabilization vs. Growth, Leaderless vs. Leadership, Short-Term vs. Long-Term Priorities, Knowledgeable vs. Unknowledgeable Members, and Nothing-at-Stake vs. Hyper-Financialization.
-The Future of DAOs:
++ __Benefits of DAOs__: Benefits include transparency, democratization, trust-minimization, and global participation.
 
-The article acknowledges that DAOs are still in their infancy and their evolution is uncertain. It highlights the need for experimentation to develop diverse and effective governance models.
++ __Tradeoffs and Challenges in DAO Governance__: Key trade-offs are analyzed across multiple dichotomies such as Early-Stage vs. Late-Stage Members, Decentralization vs. Efficiency, Stabilization vs. Growth, Leaderless vs. Leadership, Short-Term vs. Long-Term Priorities, Knowledgeable vs. Unknowledgeable Members, and Nothing-at-Stake vs. Hyper-Financialization.
+
++ __The Future of DAOs__: The article acknowledges that DAOs are still in their infancy and their evolution is uncertain. It highlights the need for experimentation to develop diverse and effective governance models.
 
 ## Voting over blockchain
 
@@ -176,27 +170,21 @@ The article acknowledges that DAOs are still in their infancy and their evolutio
 
 This position paper by Yomna Nasser, Chidinma Okoye, Jeremy Clark, and Peter Y.A. Ryan explores the potential and limitations of blockchain technology in the context of voting systems. The authors systematically examine both the challenges of implementing a voting system on a blockchain and how blockchain might enhance existing verifiable voting systems. They conclude that while blockchains can be a useful augmentation for verifiable voting in certain circumstances and may introduce innovative ways of voting in non-traditional settings, they are not a panacea for all voting system issues.
 
-Blockchain as a Voting System Base:
+Paper key-points:
 
-The paper begins by considering the challenges of building a voting system on a blockchain, including issues related to voter anonymity, registration, and the transparency of the voting process.
-Enhancing Verifiable Voting Systems:
++ __Blockchain as a Voting System Base__: The paper begins by considering the challenges of building a voting system on a blockchain, including issues related to voter anonymity, registration, and the transparency of the voting process.
 
-The authors then examine how blockchains could augment existing verifiable voting systems, acknowledging the potential for blockchains to contribute positively in specific scenarios.
-Blockchain's Limitations in Voting:
++ __Enhancing Verifiable Voting Systems__: The authors then examine how blockchains could augment existing verifiable voting systems, acknowledging the potential for blockchains to contribute positively in specific scenarios.
 
-Despite potential benefits, the paper highlights that blockchains are not a universal solution for voting systems, particularly for public sector elections. They emphasize that in most cases, blockchains would play a supporting role within a larger system, rather than being the primary technology.
-Cryptographic and End-to-End Verifiable Voting:
++ __Blockchain's Limitations in Voting__: Despite potential benefits, the paper highlights that blockchains are not a universal solution for voting systems, particularly for public sector elections. They emphasize that in most cases, blockchains would play a supporting role within a larger system, rather than being the primary technology.
 
-The discussion includes cryptographic or end-to-end verifiable (E2E) voting systems, highlighting their ability to provide proof that ballots were included and unmodified in the final tally while maintaining voter privacy.
-Blockchain as a Bulletin Board:
++ __Cryptographic and End-to-End Verifiable Voting__: The discussion includes cryptographic or end-to-end verifiable (E2E) voting systems, highlighting their ability to provide proof that ballots were included and unmodified in the final tally while maintaining voter privacy.
 
-One potential use of blockchains in voting systems is as a bulletin board for storing public messages and data related to elections, offering improvements over traditional bulletin board implementations.
-Challenges with Deployment and Usability:
++ __Blockchain as a Bulletin Board__: One potential use of blockchains in voting systems is as a bulletin board for storing public messages and data related to elections, offering improvements over traditional bulletin board implementations.
 
-The paper raises concerns about the practical deployment of blockchain-based voting systems, including voter interactions, key management, scalability, and the potential for misuse in vote buying.
-Potential for Creative Applications:
++ __Challenges with Deployment and Usability__: The paper raises concerns about the practical deployment of blockchain-based voting systems, including voter interactions, key management, scalability, and the potential for misuse in vote buying.
 
-Despite challenges, the authors recognize the potential for blockchain voting systems to enable creative applications, such as integrating voting with blockchain-based assets and smart contracts.
++ __Potential for Creative Applications__: Despite challenges, the authors recognize the potential for blockchain voting systems to enable creative applications, such as integrating voting with blockchain-based assets and smart contracts.
 
 ## Liquid Democracy
 
@@ -204,28 +192,21 @@ Despite challenges, the authors recognize the potential for blockchain voting sy
 
 This text appears to be an excerpt from an academic paper discussing the concept of liquid democracy and its implications, particularly focusing on the challenges related to ballot secrecy. Liquid democracy is a voting system where voters have the option to delegate their vote to another person, potentially creating a chain of delegated votes. The paper explores the nuances of this system in the context of governmental elections and referendums, assuming the use of online voting mechanisms.
 
-Liquid Democracy Overview:
++ __Liquid Democracy Overview__: The paper introduces liquid democracy as a system allowing vote delegation, potentially suitable for direct democracies with frequent referendums. It distinguishes liquid democracy from traditional delegative democracy, noting its increased attention since the late 2000s, particularly among technologists.
 
-The paper introduces liquid democracy as a system allowing vote delegation, potentially suitable for direct democracies with frequent referendums. It distinguishes liquid democracy from traditional delegative democracy, noting its increased attention since the late 2000s, particularly among technologists.
-Challenges with Ballot Secrecy:
++ __Practical Applications and Experiments__: The text references various implementations and experiments with liquid democracy, such as Liquid Feedback, Google Votes, and blockchain-based solutions. It notes the relatively low usage of vote delegation in these systems and highlights the need for further study in this area.
 
-A major focus of the paper is the issue of maintaining ballot secrecy in a liquid democracy. This includes the challenges of delegation cycles, unexpected delegations, and accountability of delegates, all of which can impact voter privacy and the integrity of the voting process.
-Assumptions for Analysis:
++ __Challenges with Ballot Secrecy__: A major focus of the paper is the issue of maintaining ballot secrecy in a liquid democracy. This includes the challenges of delegation cycles, unexpected delegations, and accountability of delegates, all of which can impact voter privacy and the integrity of the voting process.
 
-The paper bases its analysis on several assumptions, including the use of online voting, a two-phase voting process (delegation and voting phases), and the potential for multiple concurrent referendums.
-Delegation Cycles and Their Impact:
++ __Assumptions for Analysis__: The paper bases its analysis on several assumptions, including the use of online voting, a two-phase voting process (delegation and voting phases), and the potential for multiple concurrent referendums.
 
-The paper discusses the problem of delegation cycles (where voters inadvertently form a closed loop of delegations) and how they might be detected or prevented. It also addresses the implications of such cycles on the coercion-resistance of the voting system.
-Handling Unexpected Delegations:
++ __Delegation Cycles and Their Impact__: The paper discusses the problem of delegation cycles (where voters inadvertently form a closed loop of delegations) and how they might be detected or prevented. It also addresses the implications of such cycles on the coercion-resistance of the voting system.
 
-The issue of voters receiving unexpected delegations is raised, along with the potential privacy implications of systems designed to inform voters about the weight of their delegated votes.
-Accountability of Delegates:
++ __Handling Unexpected Delegations__: The issue of voters receiving unexpected delegations is raised, along with the potential privacy implications of systems designed to inform voters about the weight of their delegated votes.
 
-The paper explores the balance between maintaining delegate accountability and protecting voter privacy, noting the challenges in designing a system that achieves both objectives.
-Concluding Remarks:
++ __Accountability of Delegates__: The paper explores the balance between maintaining delegate accountability and protecting voter privacy, noting the challenges in designing a system that achieves both objectives.
 
-The paper concludes that defining the ideal functionality of a liquid democracy system, especially regarding ballot secrecy, is a complex and crucial research question. It suggests that this question needs thorough consideration before proposing new liquid democracy designs.
-Practical Applications and Experiments:
++ __Concluding Remarks__: The paper concludes that defining the ideal functionality of a liquid democracy system, especially regarding ballot secrecy, is a complex and crucial research question. It suggests that this question needs thorough consideration before proposing new liquid democracy designs.
 
-The text references various implementations and experiments with liquid democracy, such as Liquid Feedback, Google Votes, and blockchain-based solutions. It notes the relatively low usage of vote delegation in these systems and highlights the need for further study in this area.
+
 
