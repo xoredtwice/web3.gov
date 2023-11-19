@@ -47,7 +47,7 @@ In this paper we explore the importance of platform governance. We discuss vario
 The paper
  provides empirical evidence that open standards and blockchain-based governance are a necessary but not a sufficient condition for a decentralized and neutral platform. Centralization and concentrated voting power may lead to dependencies, rent extraction behavior and create hold-up problems. Consequently, producers, prosumers and service providers must evaluate the governance structure of the platform before establishing a presence.
 
-### [2023. navigating decentralized governance in web3: balance of transparency and control](https://cointelegraph.com/innovation-circle/navigating-decentralized-governance-in-web3-balance-of-transparency-and-control)
+<!-- ### [2023. navigating decentralized governance in web3: balance of transparency and control](https://cointelegraph.com/innovation-circle/navigating-decentralized-governance-in-web3-balance-of-transparency-and-control) -->
 
 ### [2023. Web3 Governance Models](https://www.hiro.so/blog/web3-governance-models-an-introduction-to-the-decision-making-process-in-web3-projects)
 
