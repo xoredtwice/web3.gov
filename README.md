@@ -15,7 +15,7 @@ Several case studies, including Curve Finance, Lido, and the Meta-governance Pro
 
 The paper concludes by asserting that governance innovation in Web3 can be a significant source of value creation. It cautions against overly simplistic governance systems and emphasizes the potential costs of minimizing governance innovation. The paper suggests that more research is needed into the implications of these insights for traditional governance processes, and it anticipates further exploration into the frontiers of Web3 governance.
 
-### [2023. Algorithmic governance, code as law, and the blockchain common: Power relations in the blockchain-based society](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1109544/full)
+### [Algorithmic governance, code as law, and the blockchain common: Power relations in the blockchain-based society (2023)](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1109544/full)
 
 This paper critically examines the concept of "Code is Law" in the context of Web3 and blockchain technology, tracing its origins to Lawrence Lessig's discussions during the early days of the internet and Web2. It explores how the rise of smart contracts and blockchain technology have given new meaning to this concept, suggesting a shift towards a more algorithm-driven governance system that promises fairness and objectivity. However, the paper highlights the challenges and limitations of such a system, noting that many individuals do not conform to standard statistical models and may be disadvantaged by algorithmic governance.
 
@@ -25,7 +25,7 @@ The discussion includes a comparison of power relations in pre-internet, Web1, W
 
 The paper concludes by suggesting that Web3, like its predecessors, is subject to similar power dynamics and struggles. It questions whether blockchain technology can truly deliver on its promise of a decentralized, fair society, and highlights the potential for continued power imbalances and struggles for control over the governing code.
 
-### [2023. Designing reward systems for Web3 governance](https://a16zcrypto.com/posts/article/designing-reward-systems-for-web3-governance/)
+### [Designing reward systems for Web3 governance (2023)](https://a16zcrypto.com/posts/article/designing-reward-systems-for-web3-governance/)
 
 This article delves into the challenge of democratizing online governance systems, focusing on incentivizing long-term civic participation through rewards. It examines the limitations of current web3 governance systems that rely on transferable tokens, such as tendencies toward plutocracy and low resilience to Sybil attacks. The author suggests alternatives to coin voting, comparing reputation-based and token-based reward systems for governance participation. The historical context shows that political influence has often been wealth-based rather than merit-based, from Ancient Rome to modern liberal democracies.
 
@@ -35,13 +35,13 @@ In the realm of web3, the author sees potential in designing and implementing sc
 
 The article concludes by highlighting the ongoing debate and experimentation in the space of online democratic governance, emphasizing the need to move beyond simple token-based systems to foster true meritocracy in decentralized governance structures.
 
-### [2023. A Comprehensive Study of Governance Issues in Decentralized Finance Applications](https://arxiv.org/pdf/2311.01433.pdf)
+### [A Comprehensive Study of Governance Issues in Decentralized Finance Applications (2023)](https://arxiv.org/pdf/2311.01433.pdf)
 
 This paper conducts a comprehensive study of governance issues in Decentralized Finance (DeFi), a key application of smart contracts offering an alternative to centralized finance. The study analyzes 4,446 audit reports from 17 Web3 security companies to categorize governance issues in DeFi applications, using a specially developed taxonomy. It identifies vulnerabilities in governance design and implementation, like flash loan and re-entrancy attacks. Employing Natural Language Processing (NLP) techniques, the paper highlights challenges in maintaining consistency between DeFi applications' code and their whitepapers. 
 
 The authors also develop and test an AI-based prototype tool on eight DeFi projects, achieving significant accuracy and recall rates. This research aims to assist those involved in DeFi - designers, developers, users, researchers, and regulators - in understanding and addressing governance challenges to promote the sector's healthy development.
 
-### [2023. Metaverse governance: An empirical analysis of voting within Decentralized Autonomous Organizations](https://www.sciencedirect.com/science/article/pii/S0148296323001224)
+### [Metaverse governance: An empirical analysis of voting within Decentralized Autonomous Organizations (2023)](https://www.sciencedirect.com/science/article/pii/S0148296323001224)
 
 In this paper we explore the importance of platform governance. We discuss various problems of centralized architecture in the context of the metaverse or sharing economy applications which may lead to monopoly market structures. We argue that open standards and lockchain-based governance can potentially mitigate some of these issues. We then collect governance data from the first blockchain-based virtual world and conduct an empirical analysis to study voter behavior within Decentralized Autonomous Organizations (DAOs). 
 The paper
@@ -49,7 +49,7 @@ The paper
 
 <!-- ### [2023. navigating decentralized governance in web3: balance of transparency and control](https://cointelegraph.com/innovation-circle/navigating-decentralized-governance-in-web3-balance-of-transparency-and-control) -->
 
-### [2023. Web3 Governance Models](https://www.hiro.so/blog/web3-governance-models-an-introduction-to-the-decision-making-process-in-web3-projects)
+### [Web3 Governance Models (2023)](https://www.hiro.so/blog/web3-governance-models-an-introduction-to-the-decision-making-process-in-web3-projects)
 
 This article provides an in-depth overview of Web3 governance, explaining its importance in decentralized systems and the various models available for implementation in Web3 projects.
 
@@ -81,7 +81,7 @@ This article provides an in-depth overview of Web3 governance, explaining its im
 
     The selection of a governance model depends on various factors, including the __desired level of decentralization__, __community size__, and __required security level__. In the early stages of a project, it may be beneficial for founders to maintain decision-making control to develop their vision and achieve product-market fit. As the project matures, transitioning to a more decentralized governance model can be considered. It's important to stay flexible and adapt the governance model as the project and the Web3 industry evolve.
 
-### [Web3 implications of blockchain mutations for internet governance](https://www.gcr21.org/publications/gcr/gcr-quarterly-magazine/qm-2-3/2022-articles/qm-2/3-2022-campbell-verduyn-and-huetten-from-peer-regulated-divisions-to-unity-in-web3-implications-of-blockchain-mutations-for-internet-governance)
+### [Web3 implications of blockchain mutations for internet governance (2022)](https://www.gcr21.org/publications/gcr/gcr-quarterly-magazine/qm-2-3/2022-articles/qm-2/3-2022-campbell-verduyn-and-huetten-from-peer-regulated-divisions-to-unity-in-web3-implications-of-blockchain-mutations-for-internet-governance)
 
 This article discusses the evolution of blockchain technology and its implications for Internet governance, particularly focusing on the emerging concept of Web3.
 
@@ -99,7 +99,7 @@ __Regulatory Responses__: As blockchain applications grow, they face increased r
 
 __Challenges and Future Directions__: Despite its promise, the unity in Web3 might not last, as it raises high expectations and faces debates about its role in Internet governance. The article suggests that the future of the Internet, be it Web3, Web 4.0, or Web5, should focus on overcoming the challenges of Web 2.0 rather than recreating them.
 
-### [What Web3 organizations can learn from governance history](https://www.gsb.stanford.edu/faculty-research/publications/lightspeed-democracy-what-web3-organizations-can-learn-history)
+### [What Web3 organizations can learn from governance history (2023)](https://www.gsb.stanford.edu/faculty-research/publications/lightspeed-democracy-what-web3-organizations-can-learn-history)
 
 This article delves into how Web3 is reshaping the landscape of democratic governance by blending civic and corporate governance traditions. It highlights the unique aspects of Web3 governance, such as its continuous nature, radically open participation, and rapid execution. The article also acknowledges the challenges faced by Web3 governance systems, drawing parallels with historical governance models and offering potential solutions.
 
@@ -121,7 +121,7 @@ Key Points of the Article:
 
 + __Towards More Mature Decentralized Governance Systems__: The article envisions a future where Web3 governance systems are more mature, learning from the lessons of past governance models to create inclusive, efficient, and effective political systems.
 
-### [2022.Web3 wrong question](https://www.wired.com/story/web3-blockchain-decentralization-governance/)
+### [Web3 wrong question (2022)](https://www.wired.com/story/web3-blockchain-decentralization-governance/)
 
 This article discusses the concept of decentralization in the context of Web3 and expresses concerns about the current direction of decentralization in this domain. Authored by Divya Siddarth, Danielle Allen, and E. Glen Weyl, the article argues that while decentralization can combat issues like erosion of freedom and economic stagnation, the focus should be on the type of decentralization rather than its degree.
 
@@ -141,7 +141,7 @@ Key Points of the Article:
 
 + __Efficiency and Security in Subsidiarity__: Contrary to the distributed redundancy model, subsidiarity can increase efficiency by leveraging trust and relationships, rather than diminishing efficiency to eliminate the need for trust.
 
-### [ChainLink: DAO complexities](https://blog.chain.link/daos/)
+### [ChainLink: DAO complexities (2022)](https://blog.chain.link/daos/)
 
 This comprehensive article from Chainlink provides an in-depth exploration of Decentralized Autonomous Organizations (DAOs) and their role in the governance of Web3. It covers various aspects of DAOs, including their types, responsibilities, tooling, governance structures, benefits, trade-offs, and the future outlook.
 
@@ -166,7 +166,7 @@ Key-points:
 
 ## Voting over blockchain
 
-### [Blockchains and Voting: Somewhere between hype and a panace](https://www.semanticscholar.org/paper/Blockchains-and-Voting%3A-Somewhere-between-hype-and-Nasser-Okoye/397f569d89af9c35f5fa67c738e2f705bb328368)
+### [Blockchains and Voting: Somewhere between hype and a panace (2018)](https://www.semanticscholar.org/paper/Blockchains-and-Voting%3A-Somewhere-between-hype-and-Nasser-Okoye/397f569d89af9c35f5fa67c738e2f705bb328368)
 
 This position paper by Yomna Nasser, Chidinma Okoye, Jeremy Clark, and Peter Y.A. Ryan explores the potential and limitations of blockchain technology in the context of voting systems. The authors systematically examine both the challenges of implementing a voting system on a blockchain and how blockchain might enhance existing verifiable voting systems. They conclude that while blockchains can be a useful augmentation for verifiable voting in certain circumstances and may introduce innovative ways of voting in non-traditional settings, they are not a panacea for all voting system issues.
 
@@ -188,7 +188,7 @@ Paper key-points:
 
 ## Liquid Democracy
 
-### [Short Paper: Ballot Secrecy for Liquid Democracy](https://dl.acm.org/doi/abs/10.1007/978-3-662-63958-0_26)
+### [Short Paper: Ballot Secrecy for Liquid Democracy (2021)](https://dl.acm.org/doi/abs/10.1007/978-3-662-63958-0_26)
 
 This text appears to be an excerpt from an academic paper discussing the concept of liquid democracy and its implications, particularly focusing on the challenges related to ballot secrecy. Liquid democracy is a voting system where voters have the option to delegate their vote to another person, potentially creating a chain of delegated votes. The paper explores the nuances of this system in the context of governmental elections and referendums, assuming the use of online voting mechanisms.
 
