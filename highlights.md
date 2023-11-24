@@ -5,7 +5,7 @@ Curated resources on Decentralized Governance, including articles, videos, and m
 ______________________________
 
 
-#### Open problems in DAOs (2023) 
+#### <a name="2023-open-problems"></a> Open problems in DAOs (2023) 
 
 <sub><sup>[[Link](https://arxiv.org/abs/2310.19201)]</sup></sub>
 

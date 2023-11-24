@@ -5,7 +5,7 @@ ______________________________
 
 #### Open problems in DAOs (2023) 
 
-<sub><sup>[[Link](https://arxiv.org/abs/2310.19201)], [[Highlights](https://github.com/xoredtwice/web3.gov/blob/main/highlights.md)]</sup></sub>
+<sub><sup>[[Link](https://arxiv.org/abs/2310.19201)], [[Highlights](https://github.com/xoredtwice/web3.gov/blob/main/highlights.md#2023-open-problems)]</sup></sub>
 
 > __Abstract__: _"Decentralized autonomous organizations (DAOs) are a new, rapidly-growing class of organizations governed by smart contracts. Here we describe how researchers can contribute to the emerging science of DAOs and other digitally-constituted organizations. From granular privacy primitives to mechanism designs to model laws, we identify high-impact problems in the DAO ecosystem where existing gaps might be tackled through a new data set or by applying tools and ideas from existing research fields such as political science, computer science, economics, law, and organizational science. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the wider research community to join the global effort to invent the next generation of organizations."_
 
