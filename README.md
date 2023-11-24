@@ -5,7 +5,7 @@ ______________________________
 
 #### Open problems in DAOs (2023) 
 
-<sub><sup>[[Link](https://arxiv.org/abs/2310.19201)], [[Highlights](https://arxiv.org/abs/2310.19201)]</sup></sub>
+<sub><sup>[[Link](https://arxiv.org/abs/2310.19201)], [[Highlights](https://github.com/xoredtwice/web3.gov/blob/main/highlights.md)]</sup></sub>
 
 > __Abstract__: _"Decentralized autonomous organizations (DAOs) are a new, rapidly-growing class of organizations governed by smart contracts. Here we describe how researchers can contribute to the emerging science of DAOs and other digitally-constituted organizations. From granular privacy primitives to mechanism designs to model laws, we identify high-impact problems in the DAO ecosystem where existing gaps might be tackled through a new data set or by applying tools and ideas from existing research fields such as political science, computer science, economics, law, and organizational science. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the wider research community to join the global effort to invent the next generation of organizations."_
 
@@ -13,7 +13,7 @@ ______________________________
 
 
 #### Algorithmic governance, code as law, and the blockchain common: Power relations in the blockchain-based society (2023)
-<sub><sup>[[Link](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1109544/full)], [[Highlights](https://arxiv.org/abs/2310.19201)]</sup></sub>
+<sub><sup>[[Link](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1109544/full)], [[Highlights](https://github.com/xoredtwice/web3.gov/blob/main/highlights.md)]</sup></sub>
 
 > __Summarized Abstract__: The concept of "code is law," popularized in the Web3 and blockchain era, echoes ideas from Lawrence Lessig's 2000 book, "Code and Other Laws of Cyberspace." This term gained new relevance with the advent of smart contracts and the promise of algorithmic governance in Web3. While there's a belief that a world governed by algorithms and decentralized autonomous organizations (DAOs) will be fairer, concerns remain about algorithmic bias and unfairness, issues already prevalent in Web2. The paper explores the idea that Web3's blockchain and smart contract technology, though decentralizing decision-making and power, do not fundamentally alter existing power dynamics and struggles. It analyzes power relations in blockchain society, discussing both vertical struggles (between code and individuals, governments, and corporations) and horizontal struggles (among society, corporations, and the state over code modification and governance token influence). The paper concludes that while Web3 introduces a new space for social interaction and discourse, it mirrors earlier stages of the internet in perpetuating longstanding societal power imbalances.
 
