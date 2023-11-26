@@ -5,6 +5,63 @@ Curated resources on Decentralized Governance, including articles, videos, and m
 ______________________________
 
 
+#### <a name="2023-vbe"></a> DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs (2023) 
+
+<sub><sup>[[Link](https://arxiv.org/abs/2311.03530)]</sup></sub>
+
+In summary, the paper provides a comprehensive look at DAO decentralization, introducing the novel VBE measure to address traditional metrics' shortcomings. It highlights the complexities of DAO governance, particularly in the context of voting behaviors, systemic bribery, and the emerging threat of Dark DAOs, while also offering practical guidance for improving DAO structures and processes.
+
+Highlights:
+
++ __Decentralization Measures in DAOs__
+
+    Traditionally, DAO decentralization has been evaluated based on token ownership distribution. A higher concentration of tokens in fewer hands indicates strong centralization, while a more widespread distribution suggests decentralization. Common metrics like entropy, the Gini coefficient, and the Nakamoto coefficient are used to measure this distribution.
+
+    However, these measures have limitations. They only consider visible on-chain data, not control by real-world individuals. For example, an individual could control a majority of tokens distributed across many addresses, creating a false appearance of decentralization. Other issues like low participation, herding, and bribery also affect DAO centralization but are not captured by traditional measures.
+
++ __Voting-Bloc Entropy (VBE)__
+
+    The paper introduces _Voting-Bloc Entropy (VBE)_ as a new metric for DAO decentralization. VBE assesses the similarity of participants' utility functions across a set of proposals, shifting focus from individual token holdings to the broader concept of voting blocs based on aligned interests. VBE is based on the principle that voters with closely aligned interests across elections represent a centralizing force. Large voting blocs, where members have similar utility functions, indicate centralization, while a more diverse range of perspectives suggests decentralization.
+    
+    VBE is a theoretical metric, as utility functions are often not directly measurable. It serves as a framework for understanding the impact of various policies and practices on DAO decentralization.
+
++ __Implications of VBE__
+
+    + __Apathy / Inactivity Whale__: The paper establishes that a large group of non-participating (apathetic) members within a DAO acts as a centralizing force. This means that when many participants choose not to vote, it leads to a concentration of decision-making power among a smaller group, thus reducing decentralization (Theorem 3.3).
+
+    + __Delegation__: Contrary to what might be expected, the study finds that delegation in the presence of a significant inactivity whale actually increases decentralization. This is because delegation effectively distributes decision-making power away from non-participating members, thereby countering the centralizing effect of their inactivity (Theorem 3.4).
+
+    + __Bribery__: The paper highlights a close relationship between bribery and decentralization. It concludes that the act of bribery negatively impacts decentralization by aligning the votes of participants with the briber's interests. Furthermore, it finds that as a DAO becomes more decentralized, the risk and potential effectiveness of systemic bribery increase, suggesting a complex interplay between decentralization and vulnerability to corruption (Theorems 3.7, 3.8, and 3.9).
+
+    + __Herding and Privacy__: Regarding herding (the tendency to align votes with influential members) and privacy, the paper's findings suggest that these factors have a centralizing effect on DAO governance. Private voting is found to mitigate herding, which aligns with the idea that anonymity in voting can prevent voters from being influenced by peer pressure or reputational concerns (Theorem 3.5).
+
+    + __Quadratic Voting and Multiple Accounts__: The study also examines quadratic voting and the impact of owning multiple accounts. It reveals that quadratic voting systems are susceptible to Sybil attacks (where one entity controls multiple accounts to gain disproportionate influence). This susceptibility represents a centralization risk in such voting systems (Theorem 3.10 and Theorem 3.2).
+
++ __Dark DAOs__
+    Dark DAOs are conceptualized as decentralized cartels that buy votes on-chain opaquely, meaning their participation is confidential. They're designed to subvert credentials in identity systems, potentially to manipulate voting schemes or attack other systems. The paper demonstrates the practical realization of a Dark DAO prototype on Ethereum, using trusted execution environments in the Oasis Sapphire blockchain. This prototype underscores that Dark DAOs are a realistic future concern for DAO governance.
+
++ __Guidance for DAOs__
+    The paper's theoretical and experimental findings lead to practical guidance for DAO design and deployment. Key areas of focus include delegation, voting privacy, voting-slate composition, and decentralized identity. These guidelines aim to enhance decentralization and address vulnerabilities in DAO governance.
+
+    + __Vote Delegation__: Delegation, especially in the presence of a large 'inactivity whale' (a significant number of non-voting token holders), tends to increase decentralization. This is because delegation diversifies tokens away from a big inactivity whale, thereby diluting the centralizing effect of non-participation (Theorem 3.4).
+
+    + __Voting Privacy__: Enhancing voting privacy is recommended as it increases decentralization. Private voting mitigates herding effects, which are centralizing in nature, as it reduces the pressure on voters to align with influential community members (Theorem 3.5).
+
+    + __Voter Bribery__: The paper notes that the scale of bribery increases with decentralization. This is due to the low alignment of utility functions in a decentralized setting, requiring systemic coordination to impose alignment (Theorems 3.7, 3.8, and 3.9).
+
+    + __Dark DAO Risks__: The risk associated with Dark DAOs is likely to increase with decentralization. As the costs of bribery coordination grow, Dark DAOs become a more compelling method for influencing vote outcomes (Inferred from Theorems 3.8 and 3.9).
+
+    + __Dark DAO Feasibility__: The feasibility of Dark DAOs is acknowledged, with existing tools enabling effective deployment. Technical feasibility is unlikely to be a barrier to their use by adversaries. Implementing Complete Knowledge (CK) for voter keys is suggested as a potential countermeasure (Sections 6 and 7).
+
+    + __Identity Verification in Quadratic Voting__: Weak identity verification increases centralization in quadratic voting systems. This occurs when a whale (a dominant token holder) can spread tokens across multiple identities, amplifying its voting power (Analysis in Sections 3.8 and 5.3).
+
+    + __Voting Slates/Proposal Bundling__: Bundling choices into slates, such as including multiple voting issues in one protocol upgrade package, tends to decrease decentralization. This happens because bundled choices align otherwise diverse utility functions or induce apathy by smoothing out utility functions (Theorem 3.6).
+
+    + __Data Collection__: Effective collection and publication of detailed voting statistics are important for measuring decentralization. Currently, the lack of systematic data collection makes it challenging to assess decentralization accurately (Discussion in Section 4).
+
+______________________________
+
+
 #### <a name="2023-open-problems"></a> Open problems in DAOs (2023) 
 
 <sub><sup>[[Link](https://arxiv.org/abs/2310.19201)]</sup></sub>
