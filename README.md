@@ -1,5 +1,6 @@
 # Web3.gov
-Curated resources on Decentralized Governance, including articles, videos, and more.
+
+Curated resources on Decentralized Governance.
 
 ______________________________
 
